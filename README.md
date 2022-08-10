@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:5E64AD,100:6FCBE3&height=200&text=Hello-World!&fontColor=FFFFFF)-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5E64AD,100:6FCBE3&height=200&section=header&text=Sori%20Joo's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5E64AD,100:6FCBE3&height=300&section=header&text=Sori%20Joo's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 <p align='center'> Sori Joo's Github </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
